@@ -3,7 +3,7 @@
 import socket
 import sys  
 
-host = 'www.pythonprogramminglanguage.com'
+host = 'www.google.com'
 port = 80  # web
  
 # create socket
