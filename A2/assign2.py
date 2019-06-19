@@ -1,4 +1,4 @@
-# REF: https://pymotw.com/2/struct/
+# Struct usage REF: https://pymotw.com/2/struct/
 #Creating a RUSH packet sender
 import sys
 import socket
